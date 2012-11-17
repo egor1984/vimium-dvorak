@@ -1,0 +1,46 @@
+map h scrollDown
+map о scrollDown
+map  H previousTab
+map  О previousTab
+
+map j scrollLeft
+map с scrollLeft
+map J goBack
+map С goBack
+
+map t scrollUp
+map л scrollUp
+map T nextTab
+map Л nextTab
+
+map k scrollRight
+map м scrollRight
+map K goForward
+map М goForward
+
+map l createTab
+map з createTab
+map L Vomnibar.activateTabSelection
+map З Vomnibar.activateTabSelection
+
+
+map  Х showHelp
+map  Г scrollToBottom
+map  р scrollPageDown
+map  а scrollPageUp
+map  щ reload
+map  п enterInsertMode
+map  м goForward
+map  ф LinkHints.activateMode
+map  Ф LinkHints.activateModeToOpenInNewTab
+map  х enterFindMode
+map  д performFind
+map  Д performBackwardsFind
+map  к openCopiedUrlInCurrentTab
+map  К openCopiedUrlInNewTab
+map  и removeTab
+map  И restoreTab
+map  ы Vomnibar.activate
+map  Ы Vomnibar.activateInNewTab
+map  т Vomnibar.activateBookmarks
+map  Т Vomnibar.activateBookmarksInNewTab
