@@ -31,8 +31,8 @@ map  а scrollPageUp
 map  щ reload
 map  п enterInsertMode
 map  м goForward
-map  ф LinkHints.activateMode
-map  Ф LinkHints.activateModeToOpenInNewTab
+map  н LinkHints.activateMode
+map  Н LinkHints.activateModeToOpenInNewTab
 map  х enterFindMode
 map  д performFind
 map  Д performBackwardsFind
