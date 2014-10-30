@@ -24,7 +24,9 @@ map L Vomnibar.activateTabSelection
 map З Vomnibar.activateTabSelection
 
 
+
 map  Х showHelp
+map  гг scrollToTop
 map  Г scrollToBottom
 map  р scrollPageDown
 map  а scrollPageUp
